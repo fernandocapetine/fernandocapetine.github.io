@@ -46,9 +46,9 @@ display: none; !important;
 
             <a-image position=”0 0.4 0″ rotation=”270 0 0″ height=”1″ width=”1″ src=”https://fernandocapetine.github.io/Imagem2.png”></a-image>
 
-        </a-marker-camera>
+        </a-marker-webcam>
 
-            <a-entity camera></a-entity>
+            <a-entity webcam></a-entity>
 
     </a-scene>
 
